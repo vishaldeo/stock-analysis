@@ -9,7 +9,7 @@ Steve uses VBA to analysis the stock data. When the report run for a speicific Y
 * % Return of the Stock
 * The report represent the data more informational , it shows the percentage return as Profit / Loss based on the assumption the user invested at the first day of the financial year.
 
-### Code Refactor for Effiency
+### Code Refactor for effciency
 
 The analysis was to refactor the code that Steve wrote for the customer for optimal resource utilization and more efficient. Currenly Steve is using only green energy stock for analysis that would serve the puprose. If customer change the requirement to use Entire market data analysis by multiple financial domain the code should be efficient.   
 
